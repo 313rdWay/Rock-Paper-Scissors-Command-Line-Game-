@@ -1,7 +1,7 @@
 
 # Rock, Paper, Scissors (Command Line Game) by classicCoders
 
-At the MSU Apple Developer Academy in 
+This command line game was created by me and my team for Challenge 3 of the MSU Apple Developer Academy. 
 
 
 ## Background
